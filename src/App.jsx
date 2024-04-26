@@ -13,7 +13,7 @@ useEffect(() => {
 
   return (
     <main className='container'>
-      <h1 className='text-danger display-2'>Proyecto Integrador!</h1>
+      <h1 className='text-success display-2'>Proyecto Integrador!</h1>
       <hr />
       <Productos/>
 
